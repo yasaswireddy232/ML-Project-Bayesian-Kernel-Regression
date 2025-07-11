@@ -8,10 +8,7 @@ This project explores **core Machine Learning concepts** including:
 
 The experiments were implemented and visualized using **Google Colab notebooks**, with clear plots and explanations.
 
-##  Contents
-- `Bias_Variance_Tradeoff.ipynb` – Visualization of bias & variance using multiple datasets and different regularization.
-- `Bayesian_Regression_MAP.ipynb` – Sequential updates, posterior sampling, and predictive distribution analysis.
-- `README.md` – Project overview and instructions.
+
 
 ## ⚙ Technologies
 - **Python**
